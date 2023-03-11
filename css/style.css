@@ -7,3 +7,7 @@
 @import "./home/produtos.css";
 @import "./home/preco.css";
 @import "./home/qualidade.css";
+
+@import "./global/newsletter.css";
+
+@import "./global/footer.css";
